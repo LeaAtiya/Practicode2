@@ -1,0 +1,16 @@
+C:\Users\user1\Desktop\practycode2\practycode2\obj\Debug\net6.0\practycode2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\practycode2\practycode2\obj\Debug\net6.0\practycode2.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\practycode2\practycode2\obj\Debug\net6.0\practycode2.AssemblyInfo.cs
+C:\Users\user1\Desktop\practycode2\practycode2\obj\Debug\net6.0\practycode2.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\practycode2\practycode2\bin\Debug\net6.0\practycode2.exe
+C:\Users\user1\Desktop\practycode2\practycode2\bin\Debug\net6.0\practycode2.deps.json
+C:\Users\user1\Desktop\practycode2\practycode2\bin\Debug\net6.0\practycode2.runtimeconfig.json
+C:\Users\user1\Desktop\practycode2\practycode2\bin\Debug\net6.0\practycode2.dll
+C:\Users\user1\Desktop\practycode2\practycode2\bin\Debug\net6.0\practycode2.pdb
+C:\Users\user1\Desktop\practycode2\practycode2\obj\Debug\net6.0\practycode2.dll
+C:\Users\user1\Desktop\practycode2\practycode2\obj\Debug\net6.0\refint\practycode2.dll
+C:\Users\user1\Desktop\practycode2\practycode2\obj\Debug\net6.0\practycode2.pdb
+C:\Users\user1\Desktop\practycode2\practycode2\obj\Debug\net6.0\practycode2.genruntimeconfig.cache
+C:\Users\user1\Desktop\practycode2\practycode2\obj\Debug\net6.0\ref\practycode2.dll
+C:\Users\user1\Desktop\practycode2\practycode2\bin\Debug\net6.0\seed\AllHtmlTags.json
+C:\Users\user1\Desktop\practycode2\practycode2\bin\Debug\net6.0\seed\SelfClosingHtmlTags.json
